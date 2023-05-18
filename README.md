@@ -21,7 +21,7 @@ This repository contains the code for an iOS app developed as part of the iOS Fo
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/carminecoppola/OneTouch.git`
 2. Open the project in Xcode.
 3. Build and run the app using the iOS Simulator or a physical device.
 
